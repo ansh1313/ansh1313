@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Guransh Singh </h1>
 <h3 align="center">A passionate learner and coder.</h3>
 
-<img align="right" alt="code" width="400px" src="![image](https://github.com/ansh1313/ansh1313/assets/88348756/6c024be2-98c2-4306-b010-4ffb1b5ef985)
-">
+<img align="right" alt="code" width="400px" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952odg7pzz0vmukgt5s6jna8ui3892c0nyd5x2aysh6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh1313&label=Profile%20views&color=0e75b6&style=flat" alt="ansh1313" /> </p>
 
