@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Guransh Singh </h1>
 <h3 align="center">A passionate learner and coder.</h3>
 
-<img align="right" alt="code" width="400px" src="![image](https://github.com/ansh1313/ansh1313/assets/88348756/26e71ede-2ca2-4d62-9a96-2da9b05f2486)
-
-">
+<img align="right" alt="code" width="400px" src="![image](https://github.com/ansh1313/ansh1313/assets/88348756/26e71ede-2ca2-4d62-9a96-2da9b05f2486)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh1313&label=Profile%20views&color=0e75b6&style=flat" alt="ansh1313" /> </p>
 
