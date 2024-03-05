@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh1313&label=Profile%20views&color=0e75b6&style=flat" alt="ansh1313" /> </p>
 
-<p align="left"> <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw08OOPtEwdl9uM5eeCznHhe&ust=1709716372462000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDHsfvj3IQDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw08OOPtEwdl9uM5eeCznHhe&ust=1709716372462000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDHsfvj3IQDFQAAAAAdAAAAABAJ)" /> </p>
+<p align="left"> <img src="![image](https://github.com/ansh1313/ansh1313/assets/88348756/2bda98cf-829e-4df4-b76b-d08aa3052d16)
+" /> </p>
 
 - 🔭 I've worked in Wipro Ltd as a Project Engineer. **Wipro Ltd**
 
