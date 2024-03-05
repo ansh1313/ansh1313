@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh1313&label=Profile%20views&color=0e75b6&style=flat" alt="ansh1313" /> </p>
 
-<p align="left"> <img src="![image](https://github.com/ansh1313/ansh1313/assets/88348756/2bda98cf-829e-4df4-b76b-d08aa3052d16)
-" /> </p>
-
 - 🔭 I've worked in Wipro Ltd as a Project Engineer. **Wipro Ltd**
 
 - 📫 How to reach me **https://www.linkedin.com/in/guransh-singh-b6bbb917a/**
